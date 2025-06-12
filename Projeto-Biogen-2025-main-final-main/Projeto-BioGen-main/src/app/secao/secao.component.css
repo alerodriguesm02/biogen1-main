@@ -673,7 +673,6 @@ footer i {
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(135deg, rgba(1, 108, 98, 0.4) 0%, rgba(0, 0, 0, 0.3) 100%);
   z-index: 1;
 }
 
@@ -687,8 +686,9 @@ footer i {
 
 .cta-content {
   max-width: 700px;
-  margin-left: auto;
+  margin-left: 550px;
   margin-right: 0;
+  margin-top:80px;
 }
 
 .cta-title {
