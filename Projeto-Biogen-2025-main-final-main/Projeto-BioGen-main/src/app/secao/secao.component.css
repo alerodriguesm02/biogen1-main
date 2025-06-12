@@ -209,6 +209,18 @@ nav li a:hover {
   transition: 0.3s ease-in-out;
 }
 
+.btn-primary2 {
+  background-color: #01b658;
+  color: white;
+  border-radius: 10px;
+  padding-inline: 32px;
+  padding-block: 14px;
+  border: solid 1px;
+  border-color: #01b658;
+  font-size: 16px;
+  transition: 0.3s ease-in-out;
+}
+
 .btn-outline + .btn-primary {
   margin-inline: 10px;
 }
@@ -216,6 +228,18 @@ nav li a:hover {
 .btn-primary:hover {
   background-color: #016c62;
   color: white;
+  border-radius: 10px;
+  padding-inline: 32px;
+  padding-block: 14px;
+  border: solid 1px;
+  border-color: #016c62;
+  font-size: 16px;
+  transform: scale(1.1);
+}
+
+.btn-primary2:hover {
+  background-color: #ffffff;
+  color: #016c62;
   border-radius: 10px;
   padding-inline: 32px;
   padding-block: 14px;
