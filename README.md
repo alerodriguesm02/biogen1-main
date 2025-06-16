@@ -1,13 +1,13 @@
 # 🌱 BioGen - Energia Limpa e Sustentável
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/biogen-team/assets/main/logo-biogen.png" alt="BioGen Logo" width="200"/>
+  <img src="./Projeto-BioGen-main/public/assets/logo-biogen.png" alt="BioGen Logo" width="200"/>
   
   [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)](https://github.com/biogen-team/projeto-biogen)
   [![Node.js](https://img.shields.io/badge/Node.js-18.0%2B-green)](https://nodejs.org/)
   [![Angular](https://img.shields.io/badge/Angular-18.0-red)](https://angular.io/)
   [![SQLite](https://img.shields.io/badge/SQLite-3.0-blue)](https://sqlite.org/)
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  
 </div>
 
 ---
@@ -54,19 +54,19 @@ graph LR
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-7.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 7.png" width="80"/>
         <br><strong>ODS 7</strong><br>Energia Limpa<br>e Acessível
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-10.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 10.png" width="80"/>
         <br><strong>ODS 10</strong><br>Redução das<br>Desigualdades
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-12.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 12.png" width="80"/>
         <br><strong>ODS 12</strong><br>Consumo e Produção<br>Responsáveis
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ods-13.png" width="80"/>
+        <img src="./Projeto-BioGen-main/public/assets/ods 13.png" width="80"/>
         <br><strong>ODS 13</strong><br>Ação contra a<br>Mudança do Clima
       </td>
     </tr>
@@ -162,14 +162,11 @@ npm run dev # ou npm start
 
 ### **Para Beneficiários (Famílias)**
 - 🏠 Cadastro via NIS (Número de Identificação Social)
-- ⚡ Acompanhamento do consumo de energia
 - 🎯 Acesso a energia limpa e acessível
 
 ### **Para Administradores**
 - 👥 Gestão completa de usuários
 - 📊 Dashboard administrativo
-- 🏭 Controle de plantas de energia
-- 📈 Análise de impacto social e ambiental
 
 ---
 
@@ -179,25 +176,31 @@ npm run dev # ou npm start
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/alessandro.png" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/int alessandro.png" width="100" style="border-radius: 50%"/>
         <br><strong>Alessandro Rodrigues</strong>
         <br><em>CEO & Founder</em>
         <br>Visão estratégica e liderança
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/daniel.png" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/int daniel.png" width="100" style="border-radius: 50%"/>
         <br><strong>Daniel Adeljarbas</strong>
         <br><em>Diretor de Tecnologia</em>
         <br>Arquitetura e desenvolvimento
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/taise.png" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/Rafael.png" width="100" style="border-radius: 50%"/>
+        <br><strong>Raphael Cremer</strong>
+        <br><em>DBA</em>
+        <br>Manutenção, Otimização e Segurança
+      </td>
+      <td align="center">
+        <img src="./Projeto-BioGen-main/public/assets/int taise.png" width="100" style="border-radius: 50%"/>
         <br><strong>Taise Rodrigues</strong>
         <br><em>Diretora de Marketing</em>
         <br>Estratégia e comunicação
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/thiago.jpeg" width="100" style="border-radius: 50%"/>
+        <img src="./Projeto-BioGen-main/public/assets/int thiago.jpeg" width="100" style="border-radius: 50%"/>
         <br><strong>Thiago Muniz</strong>
         <br><em>Diretor Financeiro</em>
         <br>Gestão financeira e planejamento
@@ -214,19 +217,19 @@ npm run dev # ou npm start
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/brf.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/brf.png" height="60"/>
         <br><strong>BRF S.A.</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/bunge.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/bunge.png" height="60"/>
         <br><strong>Bunge</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/ambev.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/ambev.png" height="60"/>
         <br><strong>Ambev</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/cargill.png" height="60"/>
+        <img src="./Projeto-BioGen-main/public/assets/cargill.png" height="60"/>
         <br><strong>Cargill</strong>
       </td>
     </tr>
@@ -242,6 +245,15 @@ npm run dev # ou npm start
 POST /api/auth/login              # Login de usuários
 POST /api/auth/register/fornecedor # Cadastro de fornecedores
 POST /api/auth/register/beneficiario # Cadastro de beneficiários
+PUT  /api/auth/reset-password/:id   # Redefinir senha de usuário
+```
+
+### **Lançamentos**
+```http
+GET    /api/users                 # Listar todos os usuários
+GET    /api/users/:id             # Buscar usuário por ID
+PUT    /api/users/:id             # Atualizar usuário
+DELETE /api/users/:id             # Excluir usuário
 ```
 
 ### **Lançamentos**
@@ -254,7 +266,8 @@ DELETE /api/lancamentos/:id       # Excluir lançamento
 
 ### **Health Check**
 ```http
-GET /api/health                   # Status da API
+GET /api/health                    # Status da API
+GET /api-docs                      # Documentação Swagger
 ```
 
 ---
@@ -265,12 +278,16 @@ GET /api/health                   # Status da API
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/home-screenshot.png" width="300"/>
+        <img src="./Projeto-BioGen-main/public/assets/tela_principal.jpeg" width="250" height="180" style="object-fit: cover;"/>
         <br><strong>Página Inicial</strong>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/biogen-team/assets/main/dashboard-screenshot.png" width="300"/>
-        <br><strong>Dashboard</strong>
+        <img src="./Projeto-BioGen-main/public/assets/dashboard_fornecedor.jpeg" width="250" height="180" style="object-fit: cover;"/>
+        <br><strong>Dashboard Fornecedor</strong>
+      </td>
+      <td align="center">
+        <img src="./Projeto-BioGen-main/public/assets/dashboard_adm.jpeg" width="250" height="180" style="object-fit: cover;"/>
+        <br><strong>Dashboard Administrador</strong>
       </td>
     </tr>
   </table>
@@ -283,7 +300,6 @@ GET /api/health                   # Status da API
 - [x] **Fase 1**: MVP com funcionalidades básicas
 - [x] **Fase 2**: Sistema de autenticação e autorização
 - [x] **Fase 3**: Dashboard interativo
-- [ ] **Fase 4**: App mobile (React Native)
 - [ ] **Fase 5**: Integração com IoT para monitoramento em tempo real
 - [ ] **Fase 6**: Machine Learning para otimização de processos
 - [ ] **Fase 7**: Expansão internacional
@@ -306,27 +322,6 @@ GET /api/health                   # Status da API
 
 ---
 
-## 📄 **Licença**
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-## 📞 **Contato**
-
-<div align="center">
-  
-**🌐 Site**: [www.biogen.com.br](https://www.biogen.com.br)
-
-**📧 Email**: contato@biogen.com.br
-
-**📱 Redes Sociais**: 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/biogen)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biogen.oficial)
-
-</div>
-
----
 
 <div align="center">
 
